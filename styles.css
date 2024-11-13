@@ -1,1 +1,16 @@
 /* your code */
+#header{
+   background-color:lightblue;	
+}
+#tab{
+	margin:auto;
+}
+.trr{
+	width:100px;
+}
+.fi{
+	background-color:rgb(255, 253, 208);
+}
+.se{
+	background-color:pink;
+}
